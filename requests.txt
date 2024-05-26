@@ -1,4 +1,11 @@
 [
+{
+    
+     "requestHeader": {},
+     "endDate": "2024-05-03T00:00:00+03:00",
+     "uName": "systemAtacanAdm",
+     "EncPWD": "2024-05-03T00:00:00+03:00"
+}
   {
     "method": "GET",
     "url": "/api/v1/balance?hesapNo=12-345678-9012&tarih=26.05.2024",
