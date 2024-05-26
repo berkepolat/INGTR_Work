@@ -1,0 +1,156 @@
+[
+  {
+    "method": "GET",
+    "url": "/api/v1/balance?hesapNo=12-345678-9012&tarih=26.05.2024",
+    "http_version": "HTTP/1.1",
+    "headers": {
+      "Host": "internetsubesi.ing.com.tr",
+      "Content-Type": "application/json",
+      "Authorization": "Bearer 1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p7q8r9s0t",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+      "Cookie": "sessionid=6b859f28ebf1466d9e4f65c18f64c6df; HttpOnly; Secure"
+    }
+  },
+  {
+    "method": "GET",
+    "url": "/api/v1/balance?hesapNo=12-234567-8901&tarih=15.04.2024",
+    "http_version": "HTTP/1.1",
+    "headers": {
+      "Host": "internetsubesi.ing.com.tr",
+      "Content-Type": "application/json",
+      "Authorization": "Bearer 2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p7q8r9s0t1u",
+      "User-Agent": "Opera/9.80 (Windows NT 6.2; WOW64) Presto/2.12.388 Version/12.14",
+      "Cookie": "sessionid=8f1f24c30b324693a2e4bb8c8b58b54d; HttpOnly; Secure"
+    }
+  },
+  {
+    "method": "GET",
+    "url": "/api/v1/balance?hesapNo=12-345678-9012&tarih=10.05.2024",
+    "http_version": "HTTP/1.1",
+    "headers": {
+      "Host": "internetsubesi.ing.com.tr",
+      "Content-Type": "application/json",
+      "Authorization": "Bearer 3c4d5e6f7g8h9i0j1k2l3m4n5o6p7q8r9s0t1u2v",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134",
+      "Cookie": "sessionid=ee00586e72684a388c3fe3777a2e7a51; HttpOnly; Secure"
+    }
+  },
+  {
+    "method": "GET",
+    "url": "/api/v1/balance?hesapNo=12-456789-0123&tarih=25.02.2024",
+    "http_version": "HTTP/1.1",
+    "headers": {
+      "Host": "internetsubesi.ing.com.tr",
+      "Content-Type": "application/json",
+      "Authorization": "Bearer 4d5e6f7g8h9i0j1k2l3m4n5o6p7q8r9s0t1u2v3w",
+      "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; AS; rv:11.0) like Gecko",
+      "Cookie": "sessionid=3df159e6a1004019b59e0d1a68f58fa7; HttpOnly; Secure"
+    }
+  },
+  {
+    "method": "GET",
+    "url": "/api/v1/balance?hesapNo=12-567890-1234&tarih=08.03.2024",
+    "http_version": "HTTP/1.1",
+    "headers": {
+      "Host": "internetsubesi.ing.com.tr",
+      "Content-Type": "application/json",
+      "Authorization": "Bearer 5e6f7g8h9i0j1k2l3m4n5o6p7q8r9s0t1u2v3w4x",
+      "User-Agent": "Chrome/70.0.3538.77 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36",
+      "Cookie": "sessionid=b6d9507d9cd94a6e82bfc2501d5ee945; HttpOnly; Secure"
+    }
+  },
+  {
+    "method": "GET",
+    "url": "/api/v1/balance?hesapNo=12-678901-2345&tarih=16.01.2024",
+    "http_version": "HTTP/1.1",
+    "headers": {
+      "Host": "internetsubesi.ing.com.tr",
+      "Content-Type": "application/json",
+      "Authorization": "Bearer 6f7g8h9i0j1k2l3m4n5o6p7q8r9s0t1u2v3w4x",
+      "User-Agent": "Opera/9.80 (Windows NT 6.2; WOW64) Presto/2.12.388 Version/12.14",
+      "Cookie": "sessionid=2e21d16d"
+    }
+  },
+  {
+    "method": "GET",
+    "url": "/api/v1/balance?hesapNo=12-789012-3456&tarih=03.07.2024",
+    "http_version": "HTTP/1.1",
+    "headers": {
+      "Host": "internetsubesi.ing.com.tr",
+      "Content-Type": "application/json",
+      "Authorization": "Bearer 7g8h9i0j1k2l3m4n5o6p7q8r9s0t1u2v3w4x5y",
+      "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; AS; rv:11.0) like Gecko",
+      "Cookie": "sessionid=daac675b00e84c9399e12a16b41b90c0; HttpOnly; Secure"
+    }
+  },
+  {
+    "method": "GET",
+    "url": "/api/v1/balance?hesapNo=12-890123-4567&tarih=21.11.2024",
+    "http_version": "HTTP/1.1",
+    "headers": {
+      "Host": "internetsubesi.ing.com.tr",
+      "Content-Type": "application/json",
+      "Authorization": "Bearer 8h9i0j1k2l3m4n5o6p7q8r9s0t1u2v3w4x5y6z",
+      "User-Agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:55.0) Gecko/20100101 Firefox/55.0",
+      "Cookie": "sessionid=72e5dc2e32a74f2f80a5aee4d6a204a8; HttpOnly; Secure"
+    }
+  },
+  {
+    "method": "GET",
+    "url": "/api/v1/balance?hesapNo=12-901234-5678&tarih=19.09.2024",
+    "http_version": "HTTP/1.1",
+    "headers": {
+      "Host": "internetsubesi.ing.com.tr",
+      "Content-Type": "application/json",
+      "Authorization": "Bearer 9i0j1k2l3m4n5o6p7q8r9s0t1u2v3w4x5y6z0a",
+      "User-Agent": "Opera/9.80 (Windows NT 6.2; Win64; x64) Presto/2.12.388 Version/12.14",
+      "Cookie": "sessionid=70f09d46dc6f4916b5e2edc4cb81d2b7; HttpOnly; Secure"
+    }
+  },
+  {
+    "method": "GET",
+    "url": "/api/v1/balance?hesapNo=12-012345-6789&tarih=27.12.2024",
+    "http_version": "HTTP/1.1",
+    "headers": {
+      "Host": "internetsubesi.ing.com.tr",
+      "Content-Type": "application/json",
+      "Authorization": "Bearer 1k2l3m4n5o6p7q8r9s0t1u2v3w4x5y6z0a1b",
+      "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134",
+      "Cookie": "sessionid=d9616bbec4d44f589b62896faadfd670; HttpOnly; Secure"
+    }
+  },
+  {
+    "method": "GET",
+    "url": "/api/v1/balance?hesapNo=12-123456-7890&tarih=14.08.2024",
+    "http_version": "HTTP/1.1",
+    "headers": {
+      "Host": "internetsubesi.ing.com.tr",
+      "Content-Type": "application/json",
+      "Authorization": "Bearer 2l3m4n5o6p7q8r9s0t1u2v3w4x5y6z0a1b2c",
+      "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0",
+      "Cookie": "sessionid=e9f12d619da34457a9c59a1d5a35c255; HttpOnly; Secure"
+    }
+  },
+  {
+    "method": "GET",
+    "url": "/api/v1/balance?hesapNo=12-234567-8901&tarih=02.05.2024",
+    "http_version": "HTTP/1.1",
+    "headers": {
+      "Host": "internetsubesi.ing.com.tr",
+      "Content-Type": "application/json",
+      "Authorization": "Bearer 3m4n5o6p7q8r9s0t1u2v3w4x5y6z0a1b2c3d",
+      "User-Agent": "Opera/9.80 (Windows NT 6.2; WOW64) Presto/2.12.388 Version/12.14",
+      "Cookie": "sessionid=6dd17b41d82a4a03af1042789f1d5863; HttpOnly; Secure"
+    }
+  },
+  {
+    "method": "GET",
+    "url": "/api/v1/balance?hesapNo=12-345678-9012&tarih=30.06.2024",
+    "http_version": "HTTP/1.1",
+    "headers": {
+      "Host": "internetsubesi.ing.com.tr",
+      "Content-Type": "application/json",
+      "Authorization": "Bearer 4n5o6p7q8r9s0t1u2v3w4x5y6z0a1b2c3d4e",
+      "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; AS; rv:11.0) like Gecko",
+      "Cookie": "sessionid=13c9d348cb664d27a39d2853c8bb37dd; HttpOnly; Secure"
+}
